@@ -1,0 +1,73 @@
+.nev{
+    width: 50%;
+    color:white;
+}
+
+.container{
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-right: 80px;
+    
+}
+
+.bg-light {
+    background-color: white!important;
+}
+.image{
+    width: 50%;
+    margin-right: 20px;
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+    background-position:left;
+}
+.text{
+    margin-top:100px;
+    width: 40%;
+    
+}
+.text p{
+    color:gray;
+}
+.bg{
+    background-image: url(bg-2.png);
+    background-repeat: no-repeat;
+    background-position:left;
+}
+.mobile{
+    width:80%;
+}
+.card-img, .card-img-bottom, .card-img-top {
+    width: 60%;
+}
+.card{
+    border:none;
+    box-shadow: 3px 3px 6px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.x{
+    margin-left: 40px;
+}
+.y{
+    margin-top: 30px;
+}
+.p{
+    
+    margin-top: 30px;
+
+}
+
+.n img{
+    margin-left: 30%;
+    width: 40%;
+
+}
+h4{
+    margin-left: 35%;
+    color: orange;
+}
+.xyz{
+    margin-top:15px;
+}
